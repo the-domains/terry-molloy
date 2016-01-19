@@ -1,29 +1,41 @@
-name: Terry Molloy
-favicon: null
-layout_spectrum: 0.91701
-typography_spectrum: 0.68286
 title: 'The Where, When & Who'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.25
+  lightness: 0.125
+  brandStrength: 0.9730185
+  brandColors:
+    - '#30546E'
+    - '#020105'
+    - '#54381F'
+    - '#BDA487'
+    - '#92F9FD'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Terry Molloy
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000001'
-    - '#a24901'
-    - '#d6783c'
-    - '#f7e6cf'
-    - '#455636'
-  brandStrength: 0.75
-  lightness: 0.125
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.1197302
+layout_spectrum: 0.9721754
