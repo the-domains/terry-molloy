@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.25
-  lightness: 0.125
+  saturation: 0.6888993
   brandStrength: 0.9730185
+  lightness: 0.9165112
   brandColors:
     - '#30546E'
     - '#020105'
     - '#54381F'
     - '#BDA487'
     - '#92F9FD'
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.7346082
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Terry Molloy
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1197302
-layout_spectrum: 0.9721754
+layout_spectrum: 0.9878731
